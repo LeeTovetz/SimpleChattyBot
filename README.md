@@ -1,10 +1,11 @@
 # SimpleChattyBot
-Simple Chatty Bot project in Java. From JetBrains Academy (hyperskill.org).<br>
+Simple Chatty Bot project in Java.<br> 
+From JetBrains Academy (hyperskill.org).<br>
 
-Learning outcomes<br>
+**Learning outcomes**<br>
 You’ll get to know the basic syntax of Java and write a simple program using variables, conditions, loops, and methods.<br>
 
-About<br>
+**About**<br>
 Here, at the beginning of your programmer’s path, <br>
 creating a simple console chat bot will do wonders <br>
 to guide you through the basics of coding. <br>
