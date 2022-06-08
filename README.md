@@ -17,10 +17,3 @@ Pack up and let’s hit the road, my friend!<br>
 https://hyperskill.org/projects/113?track=8
 ## 
 
-
-
-
-
-
-
-
